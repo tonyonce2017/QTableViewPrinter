@@ -33,4 +33,4 @@
  
 五.如有疑问, CONTACT ME
 ---
-wechat: <bold>tonyonce</bold>
+wechat: 'tonyonce'
