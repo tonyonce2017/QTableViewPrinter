@@ -22,11 +22,11 @@
   * 预览效果<br>
   ![image](./images/2.png)
   * 调整列宽<br>
-  ![image](.images/3.png)
+  ![image](./images/3.png)
   * 再次预览, 因超出当前页最大列宽, 自动换页
   ![image](./images/4.png)
   ![image](./images/5.png)
   
 四.LICENSE
 ---
- [BSD License]./LICENSE
+ [BSD License](./LICENSE)
