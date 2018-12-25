@@ -1,5 +1,4 @@
 # QTableViewPrinter
-===
 用于Qt qtableview的打印, 功能相对完善 功能有借鉴此处: https://github.com/T0ny0/Qt-Table-Printer.git, 感谢
 
 一.开发环境
@@ -18,4 +17,16 @@
   
 三.示例截图
 ---
-  1.
+  * 初始qtableview界面.<br>
+  ![image](http://github.com/tonyonce2017/QTableViewPrinter/images/1.png)
+  * 预览效果<br>
+  ![image](http://github.com/tonyonce2017/QTableViewPrinter/images/2.png)
+  * 调整列宽<br>
+  ![image](http://github.com/tonyonce2017/QTableViewPrinter/images/3.png)
+  * 再次预览, 因超出当前页最大列宽, 自动换页
+  ![image](http://github.com/tonyonce2017/QTableViewPrinter/images/4.png)
+  ![image](http://github.com/tonyonce2017/QTableViewPrinter/images/5.png)
+  
+四.LICENSE
+---
+ *[BSD License]./LICENSE
